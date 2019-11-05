@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Paleteria\Paleteria\bin\Debug\Paleteria.exe.config
+C:\Users\Alan\source\repos\Paleteria\Paleteria\bin\Debug\Paleteria.exe
+C:\Users\Alan\source\repos\Paleteria\Paleteria\bin\Debug\Paleteria.pdb
+C:\Users\Alan\source\repos\Paleteria\Paleteria\obj\Debug\Paleteria.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Paleteria\Paleteria\obj\Debug\Paleteria.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Paleteria\Paleteria\obj\Debug\Paleteria.exe
+C:\Users\Alan\source\repos\Paleteria\Paleteria\obj\Debug\Paleteria.pdb

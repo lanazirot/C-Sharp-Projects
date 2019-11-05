@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Bebes\Bebes\bin\Debug\Bebes.exe.config
+C:\Users\Alan\source\repos\Bebes\Bebes\bin\Debug\Bebes.exe
+C:\Users\Alan\source\repos\Bebes\Bebes\bin\Debug\Bebes.pdb
+C:\Users\Alan\source\repos\Bebes\Bebes\obj\Debug\Bebes.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Bebes\Bebes\obj\Debug\Bebes.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Bebes\Bebes\obj\Debug\Bebes.exe
+C:\Users\Alan\source\repos\Bebes\Bebes\obj\Debug\Bebes.pdb

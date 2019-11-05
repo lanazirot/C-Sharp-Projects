@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\bin\Debug\Ejemplo 12 de septiembre.exe.config
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\bin\Debug\Ejemplo 12 de septiembre.exe
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\bin\Debug\Ejemplo 12 de septiembre.pdb
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\obj\Debug\Ejemplo 12 de septiembre.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\obj\Debug\Ejemplo 12 de septiembre.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\obj\Debug\Ejemplo 12 de septiembre.exe
+C:\Users\Alan\source\repos\Ejemplo 12 de septiembre\Ejemplo 12 de septiembre\obj\Debug\Ejemplo 12 de septiembre.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Agua\Agua\bin\Debug\Agua.exe.config
+C:\Users\Alan\source\repos\Agua\Agua\bin\Debug\Agua.exe
+C:\Users\Alan\source\repos\Agua\Agua\bin\Debug\Agua.pdb
+C:\Users\Alan\source\repos\Agua\Agua\obj\Debug\Agua.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Agua\Agua\obj\Debug\Agua.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Agua\Agua\obj\Debug\Agua.exe
+C:\Users\Alan\source\repos\Agua\Agua\obj\Debug\Agua.pdb

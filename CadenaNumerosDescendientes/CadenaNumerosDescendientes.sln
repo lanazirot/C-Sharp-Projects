@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadenaNumerosDescendientes", "CadenaNumerosDescendientes\CadenaNumerosDescendientes.csproj", "{E42CAAE2-66B6-449F-999A-A0C9A4BD5F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42CAAE2-66B6-449F-999A-A0C9A4BD5F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42CAAE2-66B6-449F-999A-A0C9A4BD5F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42CAAE2-66B6-449F-999A-A0C9A4BD5F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42CAAE2-66B6-449F-999A-A0C9A4BD5F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7634CC95-DD51-40F7-91AA-89C0D58C2D42}
+	EndGlobalSection
+EndGlobal

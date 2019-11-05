@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\bin\Debug\Temperatura a grados Centigrados.exe.config
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\bin\Debug\Temperatura a grados Centigrados.exe
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\bin\Debug\Temperatura a grados Centigrados.pdb
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\obj\Debug\Temperatura a grados Centigrados.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\obj\Debug\Temperatura a grados Centigrados.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\obj\Debug\Temperatura a grados Centigrados.exe
+C:\Users\Alan\source\repos\Temperatura a grados Centigrados\Temperatura a grados Centigrados\obj\Debug\Temperatura a grados Centigrados.pdb

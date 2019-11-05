@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\bin\Debug\Proyecto de pruebas.exe.config
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\bin\Debug\Proyecto de pruebas.exe
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\bin\Debug\Proyecto de pruebas.pdb
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\obj\Debug\Proyecto de pruebas.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\obj\Debug\Proyecto de pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\obj\Debug\Proyecto de pruebas.exe
+C:\Users\Alan\source\repos\Proyecto de pruebas\Proyecto de pruebas\obj\Debug\Proyecto de pruebas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\bin\Debug\OperacionesLeo.exe.config
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\bin\Debug\OperacionesLeo.exe
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\bin\Debug\OperacionesLeo.pdb
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\obj\Debug\OperacionesLeo.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\obj\Debug\OperacionesLeo.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\obj\Debug\OperacionesLeo.exe
+C:\Users\Alan\source\repos\OperacionesLeo\OperacionesLeo\obj\Debug\OperacionesLeo.pdb

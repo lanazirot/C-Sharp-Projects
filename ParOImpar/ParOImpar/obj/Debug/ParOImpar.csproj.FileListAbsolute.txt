@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\bin\Debug\ParOImpar.exe.config
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\bin\Debug\ParOImpar.exe
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\bin\Debug\ParOImpar.pdb
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\obj\Debug\ParOImpar.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\obj\Debug\ParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\obj\Debug\ParOImpar.exe
+C:\Users\Alan\source\repos\ParOImpar\ParOImpar\obj\Debug\ParOImpar.pdb

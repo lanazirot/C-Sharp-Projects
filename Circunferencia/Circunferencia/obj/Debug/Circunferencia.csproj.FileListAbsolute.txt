@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe.config
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\bin\Debug\Circunferencia.exe
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\bin\Debug\Circunferencia.pdb
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.exe
+C:\Users\Alan\source\repos\Circunferencia\Circunferencia\obj\Debug\Circunferencia.pdb

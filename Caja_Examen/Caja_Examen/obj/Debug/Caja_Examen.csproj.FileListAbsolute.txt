@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\bin\Debug\Caja_Examen.exe.config
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\bin\Debug\Caja_Examen.exe
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\bin\Debug\Caja_Examen.pdb
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\obj\Debug\Caja_Examen.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\obj\Debug\Caja_Examen.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\obj\Debug\Caja_Examen.exe
+C:\Users\Alan\source\repos\Caja_Examen\Caja_Examen\obj\Debug\Caja_Examen.pdb
