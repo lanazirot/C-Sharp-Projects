@@ -1,0 +1,7 @@
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\bin\Debug\Ciclos 4 3 8.exe.config
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\bin\Debug\Ciclos 4 3 8.exe
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\bin\Debug\Ciclos 4 3 8.pdb
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\obj\Debug\Ciclos 4 3 8.csprojAssemblyReference.cache
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\obj\Debug\Ciclos 4 3 8.csproj.CoreCompileInputs.cache
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\obj\Debug\Ciclos 4 3 8.exe
+C:\Users\Alan\source\repos\Ciclos 4 3 8\Ciclos 4 3 8\obj\Debug\Ciclos 4 3 8.pdb
