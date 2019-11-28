@@ -30,24 +30,20 @@ namespace ExplicacionRefValor {
         static void Main(string[] args) {
 
 
+            int[,,] m = new int[2, 2, 2];
 
-            //VOY A USAR X PARA REFERENCIA
-            int x = 10;
-            //VOY A USAR Y PARA VALOR
-            int y = 20;
-
-            //OBSERVA LO QUE SUCEDE, X AUMENTA, PERO Y NO AUMENTA!
-
-            MetodoPorReferencia(ref x);
-            Console.WriteLine("El valor de X es "+x);
-            //ATT AQUI
-            MetodoPorValor(y);
-            Console.WriteLine("El valor de Y  fuera del metodo es "+y);
+            for (int i = 0; i < m.GetLength(0); i++) {
+                Console.WriteLine("Alumno " + (i + 1));
+                for (int j = 0; j < m.GetLength(1); j++) {
+                    Console.WriteLine("Materia " + (j + 1));
+                    for (int k = 0; k < m.GetLength(2); k++) {
+                        Console.Write("Parcial " + (k + 1)+": ");
+                        m[i, j, k] = int.Parse(Console.ReadLine());
+                    }
+                }
+            }
 
 
-            //NOTA QUE LA VARIABLE X FUE MODIFICADA, SIENDO QUE ES UNA VARIABLE POR REFERENCIA, LO QUE HACE REF ES MODIFICAR SU VALOR EN BASE
-            //A SU DIRECCION DE MEMORIA, EN CAMBIO LA VARIABLE Y SOLO FUE UNA COPIA, SU VALOR NO AUMENTA, DEBIDO A QUE ES UNA COPIA, LO
-            // QUE AUMENTA ES DENTRO DEL METODO
             Console.ReadKey();
         }
     }
